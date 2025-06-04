@@ -1,2 +1,3 @@
 # GS1-Governanca
-GS 
+Cesar Iglesias Balseiro Neto - RM: 98007
+Samuel Schaeffer Aguiar - RM: 550212
